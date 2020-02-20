@@ -3,6 +3,8 @@ class Overview extends CI_Controller {
     public function __construct()
     {
 		parent::__construct();
+		//Loading url helper
+		$this->load->helper('url');
 	}
 
 	public function view($admin = 'overview')
