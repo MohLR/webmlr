@@ -12,7 +12,7 @@
 					<li>Jumlah</li>
 					<li>Harga</li>
 				</ul>
-				<li>Developed by <em>Mohammad Luthfi Rahmatullah</em></li>
+				<li>Developed by <b>Mohammad Luthfi Rahmatullah</b></li>
 				<li>NRP: 05111740000038</li>
 				<li>Kelas: PBKK - A</li>
 			</ul>
