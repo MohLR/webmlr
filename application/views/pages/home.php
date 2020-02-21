@@ -1,5 +1,5 @@
 <div id="main">
-	<div id="welcome-section">
+	<div id="page">
 		<h1>Selamat Datang di Toko Online MLR</h1>
 		<h2>Deskripsi Sistem</h2>
 		<h3>Product Knowledge</h3>
