@@ -4,7 +4,6 @@ class Pages extends CI_Controller {
     {
 		parent::__construct();
 		//Loading url helper
-		$this->load->helper('url');
 	}
 
 	public function view($page = 'home')
