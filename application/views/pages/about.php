@@ -1,3 +1,4 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
 <div id="main">
 	<div id="page">
 		<h2>Deskripsi</h2>

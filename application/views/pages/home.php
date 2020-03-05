@@ -1,3 +1,4 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
 <div id="main">
 	<div id="page">
 		<h1>Selamat Datang di Toko Online MLR</h1>
