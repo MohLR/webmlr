@@ -6,7 +6,7 @@
 	</head>
 	<body>
 		<div id="navbar">
-			<a href="<?php echo base_url();?>"><h2>Home</h2></a>
-			<a href="<?php echo base_url();?>about"><h3>About</h3></a>
-			<a href="<?php echo base_url();?>contact"><h3>Contact</h3></a>
+			<a href="<?php echo site_url();?>"><h2>Home</h2></a>
+			<a href="<?php echo site_url('about');?>"><h3>About</h3></a>
+			<a href="<?php echo site_url('contact');?>"><h3>Contact</h3></a>
 		</div>
